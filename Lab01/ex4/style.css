@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+input {
+    outline: none;
+    border: none;
+    border-width:0px;
+}
